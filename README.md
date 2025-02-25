@@ -1,0 +1,1 @@
+This project aims to classify movies reviews are good or bad.
